@@ -1,0 +1,22 @@
+[
+    {
+       "id": 1,
+       "img": "https://i.ibb.co/8dD55v6/progress.png",
+       "bg": "https://i.ibb.co/VTQmHFd/pexels-photo-841130.jpg",
+       "title": "progression",
+       "details": "Our team of experts will work with you to create a customized plan that helps you achieve success one step at a time."
+    },
+    {
+       "id": 2,
+       "img": "https://i.ibb.co/b2vBTc3/workout.png",
+       "bg": "https://i.ibb.co/hgFkBfg/pexels-photo-1552242.jpg",
+       "title": "workout",
+       "details": "With a variety of workouts to choose from, you'll have everything you need to get into the best shape of your life."
+    },
+    {
+       "id": 3,
+       "img": "https://i.ibb.co/m6SFZV2/nutr.png",
+       "bg": "https://i.ibb.co/w47cdrq/pexels-photo-2294361.jpg",
+       "title": "nutrition",
+       "details": "Our team will work with you to create a personalized meal plan that helps you reach your specific health goals."
+    }]
