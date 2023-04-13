@@ -3,7 +3,7 @@ import React from 'react'
 
 const WWA = () => {
   return (
-    <div>
+    <div className='my-10'>
         <div className='w-[94%] mx-auto flex flex-col-reverse md:flex-row justify-between space-y-8 md:space-y-0 md:space-x-10 text-center md:text-left'>
             <div className='flex-1 py-3'>
                 <h5 className='whowe mx-auto md:mx-0 text-white w-56 p-2 bg-contain font-semibold text-center bg-center mb-5 uppercase'>WHO WE ARE</h5>

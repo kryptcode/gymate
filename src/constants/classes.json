@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "name": "Cycling",
+        "time": "Wednesday: 9:00am - 10:00am",
+        "time2": "Wed: 9:00am",
+        "trainer": "Dorian Yate",
+        "icon": "fa-sharp fa-light fa-person-biking ",
+        "bg": "bg-cyc",
+        "span": true 
+    },
+    {
+        "id": 1,
+        "name": "Cycling",
+        "time": "Wednesday: 9:00am - 10:00am",
+        "time2": "Wed: 9:00am",
+        "trainer": "Dorian Yate",
+        "icon": "fa-sharp fa-light fa-person-biking ",
+        "bg": "bg-cyc" 
+    },
+    {
+        "id": 2,
+        "name": "Cycling",
+        "time": "Wednesday: 9:00am - 10:00am",
+        "time2": "Wed: 9:00am",
+        "trainer": "Dorian Yate",
+        "icon": "fa-sharp fa-light fa-person-biking ",
+        "bg": "bg-cyc" 
+    },
+    {
+        "id": 3,
+        "name": "Cycling",
+        "time": "Wednesday: 9:00am - 10:00am",
+        "time2": "Wed: 9:00am",
+        "trainer": "Dorian Yate",
+        "icon": "fa-sharp fa-light fa-person-biking ",
+        "bg": "bg-cyc" 
+    },
+    {
+        "id": 4,
+        "name": "Cycling",
+        "time": "Wednesday: 9:00am - 10:00am",
+        "time2": "Wed: 9:00am",
+        "trainer": "Dorian Yate",
+        "icon": "fa-sharp fa-light fa-person-biking ",
+        "bg": "bg-cyc" 
+    },
+    {
+        "id": 5,
+        "name": "Cycling",
+        "time": "Wednesday: 9:00am - 10:00am",
+        "time2": "Wed: 9:00am",
+        "trainer": "Dorian Yate",
+        "icon": "fa-sharp fa-light fa-person-biking ",
+        "bg": "bg-cyc" ,
+        "span": true
+    }
+]

@@ -1,5 +1,6 @@
 import Header from "./components/Header"
 import Cards from "./components/home/Cards"
+import Classes from "./components/home/Classes"
 import Hero from "./components/home/Hero"
 import WWA from "./components/home/WWA"
 
@@ -11,7 +12,8 @@ function App() {
         <Header />
         <Hero />
         <Cards />
-        <WWA />      
+        <WWA />
+        <Classes />      
     </div>
   )
 }
