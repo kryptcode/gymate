@@ -4,7 +4,7 @@ import cyc from '../../assets/home/cycling.svg'
 import dumbell from '../../assets/home/dumbell-gym-healthy-life.svg'
 import meditation from '../../assets/home/meditation.svg'
 import boxing from '../../assets/home/boxing-fight.svg'
-import arm from '../../assets/home/arm-dumbell.svg'
+import arm from '../../assets/home/arm-dumbbell.svg'
 
 const styles = {
     "cardContainer": "text-white h-72 flex flex-col justify-end py-8 relative cursor-pointer rounded-md ",
@@ -14,7 +14,7 @@ const styles = {
 
 const Classes = () => {
   return (
-    <div>
+    <div className='my-10'>
         <div className='w-[94%] mx-auto'>
         <h5 className='whowe mx-auto text-white w-72 p-2 bg-contain font-medium text-center bg-center mb-5 uppercase'>OUR FEATURED CLASSES</h5>
         <h2 className='text-4xl font-bold text-center mb-10'>
@@ -88,10 +88,10 @@ const Classes = () => {
                     </div>
                 </div>
 
-                <div className={`${styles.cardContainer} bg-weight-lift md:col-span-1 `}>
+                <div className={`${styles.cardContainer} bg-meditation md:col-span-1 `}>
                     <div className='card-inside'>
                         <div className={styles.imgContainer}>
-                        <img src={dumbell} className='h-12' alt="" />
+                        <img src={meditation} className='h-12' alt="" />
                         </div>
 
                         <div className='px-5'>
@@ -100,6 +100,42 @@ const Classes = () => {
                             </h4>
                             <div className='bg-[#ff0336] inline-block px-2 text-sm font-medium '>
                             Friday: 10:00am - 11:00am
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+
+                <div className={`${styles.cardContainer} bg-workout md:col-span-1 `}>
+                    <div className='card-inside'>
+                        <div className={styles.imgContainer}>
+                        <img src={arm} className='h-12' alt="" />
+                        </div>
+
+                        <div className='px-5'>
+                            <h4 className='text-3xl font-semibold mb-1'>
+                                Workout
+                            </h4>
+                            <div className='bg-[#ff0336] inline-block px-2 text-sm font-medium '>
+                            Monday: 4:00pm - 5:00pm
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className={`${styles.cardContainer} bg-martial md:col-span-2 `}>
+                    <div className='card-inside'>
+                        <div className={styles.imgContainer}>
+                        <img src={boxing} className='h-12' alt="" />
+                        </div>
+
+                        <div className='px-5'>
+                            <h4 className='text-3xl font-semibold mb-1'>
+                                Martial Arts
+                            </h4>
+                            <div className='bg-[#ff0336] inline-block px-2 text-sm font-medium '>
+                            Sunday: 6:00pm - 7:00pm
                             </div>
                         </div>
                     </div>
