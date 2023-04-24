@@ -7,7 +7,7 @@ const BMI = () => {
     
 
   return (
-    <div className="bg-black text-white flex flex-col md:space-x-36 md:flex-row mb-10">
+    <div className="bg-black text-white flex flex-col md:space-x-36 md:flex-row">
         <div className="flex-[5] md:pl-10 px-5 pt-8">
             <div>
                 <h2 className="text-3xl font-semibold mb-3 text-center md:text-left">

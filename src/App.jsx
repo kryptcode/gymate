@@ -1,3 +1,4 @@
+import Footer from "./components/Footer"
 import Header from "./components/Header"
 import BMI from "./components/home/BMI"
 import Cards from "./components/home/Cards"
@@ -24,6 +25,7 @@ function App() {
         <Testimonials />
         <BMI />
         <Pricing />
+        <Footer />
     </div>
   )
 }
