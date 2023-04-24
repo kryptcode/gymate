@@ -167,5 +167,9 @@
   background-repeat: no-repeat;
 }
 
-
-
+.bg-testi {
+  background: black url('https://gymate-iota.vercel.app/static/media/testimonial-shape.866887f558188c2a637b6a06af0d9208.svg') ;
+  background-size: 140px;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
