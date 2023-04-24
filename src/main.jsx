@@ -7,12 +7,22 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import { RecoilRoot } from 'recoil';
+import About from './pages/About';
+import Blog from './pages/Blog';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
-  }
+  },
+  {
+    path: "/about",
+    element: <About />,
+  },
+  {
+    path: "/blog",
+    element: <Blog />,
+  },
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(

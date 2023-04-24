@@ -16,10 +16,8 @@ const Header = () => {
 
             <div className='hidden md:flex space-x-4'>
                 <div className={styles.navLinks}><Link to='/'>Home</Link></div>
-                <div className={styles.navLinks}><Link to='/'>About</Link></div>
-                <div className={styles.navLinks}><Link to='/'>Gallery</Link></div>
-                <div className={styles.navLinks}><Link to='/'>Schedule</Link></div>
-                <div className={styles.navLinks}><Link to='/'>Blog</Link></div>
+                <div className={styles.navLinks}><Link to='/about'>About</Link></div>
+                <div className={styles.navLinks}><Link to='/blog'>Blog</Link></div>
                 <div className={styles.navLinks}><Link to='/'>Pricing</Link></div>
                 <div className={styles.navLinks}><Link to='/'>Classes</Link></div>
                 <div className={styles.navLinks}><Link to='/'>Contact</Link></div>
