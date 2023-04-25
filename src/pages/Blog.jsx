@@ -1,3 +1,4 @@
+import Footer from "../components/Footer"
 import Header from "../components/Header"
 import Main from "../components/blog/Main"
 import Sidebar from "../components/blog/Sidebar"
@@ -15,6 +16,7 @@ const Blog = () => {
             <Main />
             <Sidebar />
         </div>
+        <Footer />
     </div>
   )
 }

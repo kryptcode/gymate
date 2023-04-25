@@ -6,53 +6,70 @@
         "time2": "Wed: 9:00am",
         "trainer": "Dorian Yate",
         "icon": "fa-sharp fa-light fa-person-biking ",
-        "bg": "bg-cyc",
+        "bg": "https://gymate-iota.vercel.app/static/media/cycling.b8899915801da38931f0.jpg",
         "span": true 
     },
     {
-        "id": 1,
-        "name": "Cycling",
-        "time": "Wednesday: 9:00am - 10:00am",
-        "time2": "Wed: 9:00am",
-        "trainer": "Dorian Yate",
-        "icon": "fa-sharp fa-light fa-person-biking ",
-        "bg": "bg-cyc" 
-    },
-    {
         "id": 2,
-        "name": "Cycling",
+        "name": "Meditation",
         "time": "Wednesday: 9:00am - 10:00am",
         "time2": "Wed: 9:00am",
-        "trainer": "Dorian Yate",
-        "icon": "fa-sharp fa-light fa-person-biking ",
-        "bg": "bg-cyc" 
+        "trainer": "Maria Mitch",
+        "bg": "https://gymate-iota.vercel.app/static/media/meditation.86554d0e9d23c41860ff.jpg" 
     },
     {
         "id": 3,
-        "name": "Cycling",
+        "name": "Boxing",
         "time": "Wednesday: 9:00am - 10:00am",
         "time2": "Wed: 9:00am",
-        "trainer": "Dorian Yate",
+        "trainer": "Josh Giddey",
         "icon": "fa-sharp fa-light fa-person-biking ",
-        "bg": "bg-cyc" 
+        "bg": "https://gymate-iota.vercel.app/static/media/mma.b0861f5ca75949cc88f3.jpg" 
     },
     {
         "id": 4,
-        "name": "Cycling",
+        "name": "Karate",
         "time": "Wednesday: 9:00am - 10:00am",
         "time2": "Wed: 9:00am",
-        "trainer": "Dorian Yate",
+        "trainer": "Dorian Rich",
         "icon": "fa-sharp fa-light fa-person-biking ",
-        "bg": "bg-cyc" 
+        "bg": "https://gymate-iota.vercel.app/static/media/karate.4ff7c8b2581ecbb6279b.jpg" 
     },
     {
         "id": 5,
-        "name": "Cycling",
+        "name": "Power Lifting",
         "time": "Wednesday: 9:00am - 10:00am",
         "time2": "Wed: 9:00am",
-        "trainer": "Dorian Yate",
+        "trainer": "Larry Wheels",
         "icon": "fa-sharp fa-light fa-person-biking ",
-        "bg": "bg-cyc" ,
+        "bg": "https://gymate-iota.vercel.app/static/media/powerlifting.78726cf515db8f5e86b5.jpg" ,
         "span": true
+    },
+    {
+        "id": 6,
+        "name": "Workout",
+        "time": "Wednesday: 9:00am - 10:00am",
+        "time2": "Wed: 9:00am",
+        "trainer": "Sean Michaels",
+        "icon": "fa-sharp fa-light fa-person-biking ",
+        "bg": "https://gymate-iota.vercel.app/static/media/workout.5719e59e3a50e909c445.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Crossfit",
+        "time": "Wednesday: 9:00am - 10:00am",
+        "time2": "Wed: 9:00am",
+        "trainer": "Bubbles San",
+        "icon": "fa-sharp fa-light fa-person-biking ",
+        "bg": "https://gymate-iota.vercel.app/static/media/cross.7185a0c6b6a2d57b359b.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Running",
+        "time": "Wednesday: 9:00am - 10:00am",
+        "time2": "Wed: 9:00am",
+        "trainer": "Wok Min",
+        "icon": "fa-sharp fa-light fa-person-biking ",
+        "bg": "https://gymate-iota.vercel.app/static/media/running.0ffb5fb02137aabd62d1.jpg"
     }
 ]

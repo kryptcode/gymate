@@ -9,6 +9,9 @@ import {
 import { RecoilRoot } from 'recoil';
 import About from './pages/About';
 import Blog from './pages/Blog';
+import Pricing from './pages/Pricing';
+import Classes from './pages/Classes';
+import Contact from './pages/Contact';
 
 const router = createBrowserRouter([
   {
@@ -22,6 +25,18 @@ const router = createBrowserRouter([
   {
     path: "/blog",
     element: <Blog />,
+  },
+  {
+    path: "/pricing",
+    element: <Pricing />,
+  },
+  {
+    path: "/classes",
+    element: <Classes />,
+  },
+  {
+    path: "/contact",
+    element: <Contact />,
   },
 ]);
 
